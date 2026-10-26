@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "product_name": "Cellphone",
+    "category": "Electronics",
+    "price": 10000,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "product_name": "Head&Shoulders",
+    "category": "Groceries",
+    "price": 12,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "product_name": "Levi Jeans",
+    "category": "Clothing",
+    "price": 1200,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "product_name": "myra e",
+    "category": "Groceries",
+    "price": 12,
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "product_name": "Issy Lipstick",
+    "category": "Accessories",
+    "price": 120,
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "product_name": "Vitress",
+    "category": "Daily Necessities",
+    "price": 120,
+    "stock": 3
+  }
+]

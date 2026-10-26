@@ -1,0 +1,12 @@
+{
+  "name": "inventory-restock-system",
+  "version": "1.0.0",
+  "description": "Inventory Restock System - Node.js + Express REST API (Midterm Exam)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
